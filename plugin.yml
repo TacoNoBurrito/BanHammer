@@ -1,0 +1,11 @@
+name: BanHammer
+main: Taco\BanHammer\Main
+version: 1.0
+api: "3.0.0"
+author: Taco
+
+commands:
+ bh:
+  description: Recieve The Ban Hammer
+  usage: "/bh"
+  default: false
